@@ -1,4 +1,4 @@
-# Exercícios de Lógica em Python
+# Exercícios de Lógica em Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Exercícios de lógica em Python usando `for`, `while`, `if/elif/else` e pequenas ferramentas interativas como chatbot, contador de consoantes, separador de pares/ímpares e soma de positivos/negativos dentro de um programa de terminal interativo.
 
@@ -45,4 +45,5 @@ GROQ_API_KEY=sua_chave_aqui
 
 ```bash
 python main.py
+
 ```
