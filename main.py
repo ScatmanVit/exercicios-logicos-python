@@ -9,7 +9,7 @@ load_dotenv()
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
 def program():
-   funcs = ["chatbot", "impares e pares", "consoantes", "somar positivos e negativos ou -> sum"]
+   funcs = ["chatbot", "impares e pares", "consoantes", "somar positivos e negativos ou -> sum", "max e min"]
    while True:
       cmd = input("Qual ferramenta quer usar? \n>>")
       if cmd == "/":
